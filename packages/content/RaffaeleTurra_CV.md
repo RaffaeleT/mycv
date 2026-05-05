@@ -61,10 +61,9 @@ Currently driving human-centered AI/ML adoption as both technological evolution 
 ---
 
 ## KEY PROJECTS
+**Conversational AI for Business** (2024-2026): AI assistant automating ERP operations through natural language.
 
 **AI-Powered ERP Assistant** (2025): RAG-based conversational AI reducing training overhead and improving tech support welfare.
-
-**Conversational AI for Business** (2024-2025): AI assistant automating ERP operations through natural language.
 
 **CAD-ERP Integration** (2021-2025, 2012-2014): CPQ (Configure-Price-Quote) integrations automating BOM creation and pricing.
 
@@ -80,7 +79,7 @@ Currently driving human-centered AI/ML adoption as both technological evolution 
 
 **Academic**
 
-* Candidate Master in Business Administration | POLIMI Graduate School of Management (2024-2026)
+* Master in Business Administration | POLIMI Graduate School of Management (2024-2026)
 * Master's Degree in Forestry & Environmental Sciences - Specialization in Geographic Information Systems | University of Padova (1993-2000)
 
 **Executive Programs**
